@@ -7,7 +7,7 @@ variable "location" {
 }
 
 variable "project" {
-  default = "direct-raceway-285603"
+  default = "nova-fe"
 }
 
 provider "google" {
